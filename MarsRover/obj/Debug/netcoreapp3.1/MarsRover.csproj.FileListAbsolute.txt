@@ -1,0 +1,11 @@
+D:\PersonelGitlab\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.exe
+D:\PersonelGitlab\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.csprojAssemblyReference.cache
+D:\PersonelGitlab\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfoInputs.cache
+D:\PersonelGitlab\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.AssemblyInfo.cs
+D:\PersonelGitlab\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.deps.json
+D:\PersonelGitlab\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.json
+D:\PersonelGitlab\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.runtimeconfig.dev.json
+D:\PersonelGitlab\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.dll
+D:\PersonelGitlab\MarsRover\MarsRover\bin\Debug\netcoreapp3.1\MarsRover.pdb
+D:\PersonelGitlab\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.dll
+D:\PersonelGitlab\MarsRover\MarsRover\obj\Debug\netcoreapp3.1\MarsRover.pdb
